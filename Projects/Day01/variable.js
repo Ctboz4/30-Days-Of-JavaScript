@@ -27,3 +27,5 @@ age = 23
 country = 'USA'
 
 first_name =  'Clay', Last_name = "Moore", marital_status = 'Single', age = 23, country = 'USA'
+
+console.log(first_name)
